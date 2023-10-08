@@ -33,6 +33,13 @@
 
 }
 
+@media (max-width: 550px) {
+    .search_input{
+        display: none;
+    }
+
+}
+
 
 
 
