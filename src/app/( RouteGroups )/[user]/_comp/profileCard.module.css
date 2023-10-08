@@ -107,6 +107,7 @@
     .user_links{
         overflow: hidden;
         flex-wrap: nowrap;
+        overflow-x: auto;
         max-width: 80%;
     }
 }
