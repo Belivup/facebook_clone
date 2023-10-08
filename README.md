@@ -3,15 +3,15 @@
 
 Home Page -
 
-[https://vercel.com/belivups/belivup-fb-clone/](https://vercel.com/belivups/belivup-fb-clone/)
+[https://belivup-fb-clone.vercel.app/](https://belivup-fb-clone.vercel.app/)
 
-Login Page 
+Profile Page 
 
-[https://vercel.com/belivups/belivup-fb-clone/nazmul](https://vercel.com/belivups/belivup-fb-clone/)
+[https://belivup-fb-clone.vercel.app/nazmul](https://belivup-fb-clone.vercel.app/nazmul)
 
 
 Login Page - 
 
-[https://vercel.com/belivups/belivup-fb-clone/login](https://vercel.com/belivups/belivup-fb-clone/)
+[https://belivup-fb-clone.vercel.app/login](https://belivup-fb-clone.vercel.app/login)
 
 
