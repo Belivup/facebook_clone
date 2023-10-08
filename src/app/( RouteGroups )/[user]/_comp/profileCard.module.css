@@ -102,12 +102,12 @@
     .user_links button{
         padding: 10px 10px;
         font-size: 11px;
-
     }
 
     .user_links{
         overflow: hidden;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
+        max-width: 80%;
     }
 }
 
