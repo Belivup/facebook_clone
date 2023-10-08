@@ -7,6 +7,7 @@
     height: 100vh;
     background: var(--bg_light_blue);
     padding-top: 150px;
+    margin-top: 60px;
 }
 
 .grid_container{
